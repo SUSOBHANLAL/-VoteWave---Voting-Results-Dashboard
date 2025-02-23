@@ -1,0 +1,11 @@
+voting-app/
+├── config/
+│   └── db.js
+├── models/
+│   └── Vote.js
+├── controllers/
+│   └── voteController.js
+├── routes/
+│   └── voteRoutes.js
+├── app.js
+└── package.json
