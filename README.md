@@ -26,3 +26,8 @@ Impact :
 Created an intuitive platform for visualizing election data, making it easier for users to understand voting trends.
 Demonstrated expertise in full-stack development, REST API design, and data visualization.
 Improved user engagement with a modern, visually appealing interface and real-time updates.
+
+
+
+![image](https://github.com/user-attachments/assets/f216bfdb-aa94-47fd-bb68-a1252fff0129)
+
